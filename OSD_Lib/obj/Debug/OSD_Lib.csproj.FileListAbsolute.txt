@@ -8,3 +8,8 @@ D:\Zaloha\program1\SharpDevelop Projects\OSD_Lib\bin\Debug\OSD_Lib.pdb
 D:\Zaloha\program1\SharpDevelop Projects\OSD_Lib\obj\Debug\OSD_Lib.csprojResolveAssemblyReference.cache
 D:\Zaloha\program1\SharpDevelop Projects\OSD_Lib\obj\Debug\OSD_Lib.dll
 D:\Zaloha\program1\SharpDevelop Projects\OSD_Lib\obj\Debug\OSD_Lib.pdb
+C:\Users\adolf\Documents\GitHub\Tirorin\OSD_Lib\bin\Debug\OSD_Lib.dll
+C:\Users\adolf\Documents\GitHub\Tirorin\OSD_Lib\bin\Debug\OSD_Lib.pdb
+C:\Users\adolf\Documents\GitHub\Tirorin\OSD_Lib\obj\Debug\OSD_Lib.csprojResolveAssemblyReference.cache
+C:\Users\adolf\Documents\GitHub\Tirorin\OSD_Lib\obj\Debug\OSD_Lib.dll
+C:\Users\adolf\Documents\GitHub\Tirorin\OSD_Lib\obj\Debug\OSD_Lib.pdb
