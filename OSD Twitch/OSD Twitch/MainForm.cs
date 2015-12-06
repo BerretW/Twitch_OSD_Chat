@@ -31,9 +31,9 @@ namespace OSD_Twitch
         public string irc_Server = "irc.rizon.net";
         public int irc_port = 6667;
         public string irc_desc = "TiRoRiN Twitch OSD Client";
-        public string irc_channel = "#vch";
-        public string irc_Jmeno = "berretw";
-        public string oauth = "oauth:ykhhhipf87m7lfqg8iwmdn2mw60lxd";
+        public string irc_channel = "";
+        public string irc_Jmeno = "";
+        public string oauth = "";
         public string debug = "N";
         public int Pos_V=0;
         public int Pos_H=0;
