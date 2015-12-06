@@ -1,0 +1,11 @@
+Server="@@server@@"
+Port="6667"
+User="@@name@@"								//Vaše Twitch jméno
+OAuth="@@oauth@@" 							//Doplnit vygenerovaný OAuth kód pro váš účet https://twitchapps.com/tmi/
+Channel="@@channel@@"					//Jméno kanálu, na který se chcete připojit
+pocet řádek="@@lines@@"
+Velikost písma="@@fontsize@@"
+Pozice Horizonátlně="@@posH@@"
+Pozice Vertikálně="@@posV@@"
+Automaticky připojovat="@@a@@"			//A=Připojit se automaticky po spuštění !N!=Nepřipojovat se po spuštěn
+DebugMode="N"

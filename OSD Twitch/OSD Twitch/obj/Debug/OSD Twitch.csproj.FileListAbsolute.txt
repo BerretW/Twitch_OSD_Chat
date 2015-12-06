@@ -1,0 +1,22 @@
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\OSD Twitch.exe.config
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\OSD Twitch.exe
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Debug\OSD Twitch.csprojResolveAssemblyReference.cache
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Debug\OSD_Twitch.MainForm.resources
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Debug\OSD Twitch.csproj.GenerateResource.Cache
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Debug\OSD Twitch.exe
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\readme.txt
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\OSD_Lib.dll
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\OSD_Lib.pdb
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\config.cfg
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\config.blnk
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\config.blnk
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\config.cfg
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\readme.txt
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\OSD Twitch.exe.config
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\OSD Twitch.exe
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\OSD_Lib.dll
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Debug\OSD_Lib.pdb
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Debug\OSD Twitch.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Debug\OSD_Twitch.MainForm.resources
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Debug\OSD Twitch.csproj.GenerateResource.Cache
+D:\Zaloha\program1\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Debug\OSD Twitch.exe

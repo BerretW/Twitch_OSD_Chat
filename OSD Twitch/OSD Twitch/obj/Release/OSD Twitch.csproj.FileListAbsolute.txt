@@ -1,0 +1,10 @@
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Release\OSD Twitch.exe.config
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Release\OSD Twitch.exe
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Release\OSD Twitch.csprojResolveAssemblyReference.cache
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Release\OSD_Twitch.MainForm.resources
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Release\OSD Twitch.csproj.GenerateResource.Cache
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\obj\Release\OSD Twitch.exe
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Release\config.cfg
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Release\readme.txt
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Release\OSD_Lib.dll
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD Twitch\OSD Twitch\bin\Release\OSD_Lib.pdb

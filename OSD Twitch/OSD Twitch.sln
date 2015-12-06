@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSD Twitch", "OSD Twitch\OSD Twitch.csproj", "{1D931ACB-B314-4F67-9CA3-E79A8344D878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSD_Lib", "..\OSD_Lib\OSD_Lib.csproj", "{20A3EB77-DE0E-41D3-B9AE-D29FAC80C768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D931ACB-B314-4F67-9CA3-E79A8344D878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D931ACB-B314-4F67-9CA3-E79A8344D878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D931ACB-B314-4F67-9CA3-E79A8344D878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D931ACB-B314-4F67-9CA3-E79A8344D878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A3EB77-DE0E-41D3-B9AE-D29FAC80C768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A3EB77-DE0E-41D3-B9AE-D29FAC80C768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A3EB77-DE0E-41D3-B9AE-D29FAC80C768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A3EB77-DE0E-41D3-B9AE-D29FAC80C768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

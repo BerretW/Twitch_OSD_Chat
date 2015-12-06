@@ -1,0 +1,3 @@
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD_Lib\bin\Release\OSD_Lib.dll
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD_Lib\obj\Release\OSD_Lib.csprojResolveAssemblyReference.cache
+C:\Users\adolf\Documents\SharpDevelop Projects\OSD_Lib\obj\Release\OSD_Lib.dll
