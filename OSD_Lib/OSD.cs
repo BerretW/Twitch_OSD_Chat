@@ -12,6 +12,7 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Data;
 using System.Windows.Forms;
+using System.Text;
 
 namespace OSD_Lib
 {
@@ -34,26 +35,57 @@ namespace OSD_Lib
 		public void text_to_line(int pos_V , int pos_H ,string new_text, int line, int font_size, Color _textColor = new Color())
 		{
 			_osd[line].Show(new Point(pos_V, pos_H+(line*(font_size+2))),
-			200, Color.Red,new Font("Verdana", font_size,
+			250, _textColor ,new Font("Verdana", font_size,
 			FontStyle.Bold | FontStyle.Italic),20000,
 			FloatingWindow.AnimateMode.Blend, 370, new_text);
 		}
 		
-		public void text_to_line_advance(int pos_V , int pos_H ,string new_text, int line, int font_size, int time_to_show, Color _textColor = new Color())
+		public void text_to_line_advance(int pos_V , int pos_H ,string new_text, int font_size, int time_to_show, Color _textColor = new Color())
 		{
-			_osd[line].Show(new Point(pos_V, pos_H+(line*(font_size+2))),
-			200, Color.Red,new Font("Verdana", font_size,
+			int max_chars = (SystemInformation.VirtualScreen.Width - pos_V)/font_size;
+			_osd[0].Show(new Point(pos_V, pos_H),250, _textColor ,new Font("Verdana", font_size,
 			FontStyle.Bold | FontStyle.Italic),time_to_show,
-			FloatingWindow.AnimateMode.Blend, 370, new_text);
+			FloatingWindow.AnimateMode.Blend, 370, line_wrap(max_chars, new_text) + max_chars.ToString());
 		}
 		
 		public void OSD_close(int line){
 			_osd[line].Close();
 		}
 		
+		
+		string line_wrap(int max_chars, string text)
+		{
+		
+
+    		string[] words = text.Split(' ');
+
+			StringBuilder wraped_text = new StringBuilder();
+
+
+			string line = "";
+			foreach (string word in words)
+			{
+   				if ((line + word).Length > max_chars)
+  					{
+     					wraped_text.AppendLine(line);
+    					line = "";
+  					}
+
+    		line += string.Format("{0} ", word);
+			}
+
+			if (line.Length > 0)
+   			wraped_text.AppendLine(line);
+			return wraped_text.ToString();
+			
+		}
+		
+		
 		public void chat_window_new_line(int pos_V, int pos_H,string new_text, int num_lines, int font_size, Color _textColor = new Color())
 		{
-			line_text[0] = new_text;
+			
+			line_text[0] = line_wrap(20,new_text);
+			
 			for(int i = num_lines; i <= num_lines & i >0;  i--)
 			{
 				if (i == num_lines) line_text[i] = null;
