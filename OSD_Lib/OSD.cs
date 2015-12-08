@@ -39,6 +39,18 @@ namespace OSD_Lib
 			FloatingWindow.AnimateMode.Blend, 370, new_text);
 		}
 		
+		public void text_to_line_advance(int pos_V , int pos_H ,string new_text, int line, int font_size, int time_to_show, Color _textColor = new Color())
+		{
+			_osd[line].Show(new Point(pos_V, pos_H+(line*(font_size+2))),
+			200, Color.Red,new Font("Verdana", font_size,
+			FontStyle.Bold | FontStyle.Italic),time_to_show,
+			FloatingWindow.AnimateMode.Blend, 370, new_text);
+		}
+		
+		public void OSD_close(int line){
+			_osd[line].Close();
+		}
+		
 		public void chat_window_new_line(int pos_V, int pos_H,string new_text, int num_lines, int font_size, Color _textColor = new Color())
 		{
 			line_text[0] = new_text;

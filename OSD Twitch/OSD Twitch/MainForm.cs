@@ -119,6 +119,15 @@ namespace OSD_Twitch
             System.IO.StreamWriter file = new System.IO.StreamWriter(globalAdresar + "config.cfg");
             file.WriteLine(config);
             file.Close();
+            irc_Server= textBox1.Text;
+            irc_Jmeno=textBox3.Text;
+            oauth=textBox4.Text;
+            irc_channel=textBox2.Text;
+            max_radku=Int32.Parse(textBox5.Text);
+            Pos_H = Int32.Parse(textBox6.Text);
+            Pos_V = Int32.Parse(textBox7.Text);
+           
+            
         }
         
         
